@@ -36,7 +36,7 @@ h6 {
 }
 
 .page-section {
-  padding: 20px 0 150px;
+  padding: 25px 0 130px;
 
 }
 
@@ -639,7 +639,7 @@ header.masthead .intro-text .intro-heading {
 .team-member img {
   width: 225px;
   height: 225px;
-  border: 7px solid rgba(0, 0, 0, 0.1);
+  border: 2px solid #f3f3f3;
 }
 
 .team-member h4 {
@@ -761,7 +761,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 .bg-offwhite {
-  background-color: #f3f3f3 !important;
+  background-color: #f0f0f0 !important;
 }
 
 .no-list-style {
